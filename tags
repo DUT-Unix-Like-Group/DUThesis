@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/jczhang/DUThesis/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+LeCun2010	misc/refs.bib	/^@article{LeCun2010,$/;"	a
+Test subsection	main.tex	/^\\subsection{Test subsection}$/;"	u	section:内容
+\\dept	main.tex	/^\\newcommand{\\dept}{数学学院}$/;"	C
+\\hwk	misc/front.tex	/^\\newcommand{\\hwk}{\\CJKfamily{hwkt}}$/;"	C
+\\id	main.tex	/^\\newcommand{\\id}{20221014111292}$/;"	C
+\\level	main.tex	/^\\newcommand{\\level}{No}$/;"	C
+\\mentor	main.tex	/^\\newcommand{\\mentor}{于波}$/;"	C
+\\name	main.tex	/^\\newcommand{\\name}{张量低秩逼近的应用 }$/;"	C
+\\reposName	main.tex	/^\\newcommand{\\reposName}{张成瑞}$/;"	C
+\\type	main.tex	/^\\newcommand{\\type}{创新训练}$/;"	C
+requests	build/main.run.xml	/^<!DOCTYPE requests [$/;"	r
+内容	main.tex	/^\\section{内容}$/;"	s
+参考文献	main.tex	/^\\section{参考文献}$/;"	s
